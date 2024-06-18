@@ -1,9 +1,11 @@
 altair
 bokeh
 dash
+dotenv
 jupyter
 pandas
 plotly
 requests
+shiny
 shinywidgets
 streamlit
