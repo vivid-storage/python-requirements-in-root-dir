@@ -2,6 +2,8 @@ altair
 bokeh
 dash
 jupyter
+matplotlib
+numpy
 pandas
 plotly
 python-dotenv
